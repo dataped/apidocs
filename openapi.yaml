@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Dokumen API Cloud Function - OpenAPI 3.0
+  title: Dokumen API Satu Data KemenKUKM - OpenAPI 3.0
   description: >-
     Jelaskan disini apa saja yang perlu dijelaskan
     termasuk informasi yang diperlukan untuk dinilai
@@ -14,9 +14,9 @@ info:
   version: 1.0.11
 externalDocs:
   description: Repo GCF
-  url: https://petapedia.github.io/gcf/
+  url: https://www.datapedia.web.id/
 servers:
-  - url: https://asia-southeast2-awangga.cloudfunctions.net
+  - url: https://satudata.fly.dev
 tags:
   - name: data
     description: Data Geo Spasial
