@@ -84,7 +84,7 @@ info:
     </table>
   version: 1.0.0
 servers:
-  - url: http://{{urllocal}}
+  - url: https://satudata.fly.dev
   - url: https://dev-satudata.kemenkopukm.go.id
 components:
   securitySchemes:
