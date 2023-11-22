@@ -103,7 +103,7 @@ paths:
       tags:
         - Authorization
       summary: Generate Token
-      description: Generate token access, untuk authentifikasi akses user
+      description: Generate token access, untuk authentifikasi akses user. User password didapatkan dari datapedia.web.id
       requestBody:
         content:
           application/json:
